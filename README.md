@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm thirdworld</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif ">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thirdworld3" alt="thirdworld3" /></a> </p>
 
